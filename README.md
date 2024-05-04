@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maseeha</h1>
-<h3 align="center">Software engineer, writer, and literary ethusasiast</h3>
+<h3 align="center">Software engineer, writer, and art ethusasiast</h3>
 
 - 🔭 I’m currently working on a mobile app, utilising React and PostgreSQL.
 - 🌱 I’m currently learning machine learning and data analytics!
