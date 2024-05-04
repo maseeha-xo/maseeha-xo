@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a mobile app, utilising React and PostgreSQL.
 - 🌱 I’m currently learning machine learning and data analytics!
-- 📫 Reach me at **maseeha.m.ibrahim@gmail.com**
+- 📫 Reach me at **maseeha.m.ibrahim@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
